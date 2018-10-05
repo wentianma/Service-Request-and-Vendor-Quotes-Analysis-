@@ -1,0 +1,2 @@
+# Service-Request-and-Vendor-Quotes-Analysis-
+The project is about analyze the company's performance on providing its service. In this project, I focus on the visitors and conversion rate, quotes per request analysis, and study the distribution of average quote prices for a project, and finally make my recommendations for how the company can improve and grow marketplace. I used SQL ( including aggregation function and window functions, etc) and Tableau to create an interactive visualized dashboard and report. The raw data come from 2 tables and around 1 million entries.
